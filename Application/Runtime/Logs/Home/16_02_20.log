@@ -1,0 +1,20 @@
+[ 2016-02-20T08:42:21+08:00 ] 192.168.37.65 /timemaker/home/index/create
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.179510s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.090214s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.090419s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.062635s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.062830s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.895378s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.896046s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.069636s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.069817s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.138153s ]
+INFO: [ app_end ] --END-- [ RunTime:0.138431s ]
+

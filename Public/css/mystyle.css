@@ -1,0 +1,48 @@
+.navbar-default {
+    background-color: #4A89DC;
+    border-color: #4A89DC;
+}
+.navbar .nav > li > a {
+    color: #DDD;
+}
+.navbar .nav .active > a, .navbar .nav .active > a:hover {
+    background-color: #FFCE54;
+}
+.navbar-default .navbar-brand, .navbar-default .navbar-link, .navbar-default .btn-link {
+    color: #ffffff;
+}
+
+.navbar-default .navbar-nav > .open > a, .navbar-default .navbar-nav > .open > a:hover, .navbar-default .navbar-nav > .open > a:focus {
+    color: white;
+    background-color: #FFCE54;
+}
+.tz>.col-xs-1, .tz>.col-sm-1, .tz>.col-md-1, .tz>.col-lg-1, .tz>.col-xs-2, .tz>.col-sm-2, .tz>.col-md-2, .tz>.col-lg-2, .tz>.col-xs-3, .tz>.col-sm-3, .tz>.col-md-3, .tz>.col-lg-3, .tz>.col-xs-4, .tz>.col-sm-4, .tz>.col-md-4, .tz>.col-lg-4, .tz>.col-xs-5, .tz>.col-sm-5, .tz>.col-md-5, .tz>.col-lg-5, .tz>.col-xs-6, .tz>.col-sm-6, .tz>.col-md-6, .tz>.col-lg-6, .tz>.col-xs-7, .tz>.col-sm-7, .tz>.col-md-7, .tz>.col-lg-7, .tz>.col-xs-8, .tz>.col-sm-8, .tz>.col-md-8, .tz>.col-lg-8, .tz>.col-xs-9, .tz>.col-sm-9, .tz>.col-md-9, .tz>.col-lg-9, .tz>.col-xs-10, .tz>.col-sm-10, .tz>.col-md-10, .tz>.col-lg-10, .tz>.col-xs-11, .tz>.col-sm-11, .tz>.col-md-11, .tz>.col-lg-11, .tz>.col-xs-12, .tz>.col-sm-12, .tz>.col-md-12, .tz>.col-lg-12 {
+    position: relative;
+    min-height: 1px;
+    padding-right: 0px;
+    padding-left: 0px;
+    border:none;
+
+}
+.form-control-tz{
+	border-radius:0px;
+}
+.tz_title{
+	/*通知标题栏*/
+	height:68px;
+	font-size: 24px;
+}
+.tz_bt{
+	    display: block;
+    width: 100%;
+    height: 34px;
+    padding: 6px 12px;
+    font-size: 14px;
+    line-height: 1.42857143;
+	    border: 1px solid #ccc;
+	    text-align: center;
+}
+.tzbody{
+    /*通知编辑器*/
+    background-color: #E6E9ED;
+}

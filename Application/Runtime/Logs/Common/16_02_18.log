@@ -1,0 +1,6 @@
+[ 2016-02-18T11:54:41+08:00 ] 127.0.0.1 /timemaker/Public/js/angularjs.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001123s ]
+ERR: 无法加载模块:Public
+
